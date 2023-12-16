@@ -1,1 +1,3 @@
-# FakeNewsDetection (Project under construction [non-functional])
+# FakeNewsDetection
+
+(Project under construction [non-functional])
